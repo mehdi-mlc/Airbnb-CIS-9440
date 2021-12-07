@@ -56,12 +56,12 @@ List of Data Warehouse KPI's:
 
 This project's Dimensional Model consists of 1 Facts and 3 Dimensions
 
-![dim](/Users/mehdilahlou/Desktop/BaruchGrad/CIS 9440/Airbnb Project/new/Dimensional_Model.jpg)
+![Alt text](https://github.com/ahossstudent/CISC-9440/blob/main/bus.png)
 
 This project's Kimball Bus Matrix:
 
 Use correct file path here to show picture of dimensional model...
-![Alt text](/img/kimball_bus_matrix.JPG)
+![Alt text](https://github.com/mehdi-mlc/Airbnb-CIS-9440/blob/main/bus.png)
 
 ### Business Intelligence Design and Development
 
@@ -83,13 +83,11 @@ Average ratings per location
 
 BI Application Wireframe design:
 
-Use correct file path here to show picture of Wireframe design...
-![Alt text](/img/wireframe_design.JPG)
+![Alt text](https://github.com/mehdi-mlc/Airbnb-CIS-9440/blob/main/wire.png)
 
 Picture of final Dashboard:
 
-Use correct file path here to show picture of Dashboard...
-![Alt text](/img/Dashboard.JPG)
+![Alt text](https://github.com/mehdi-mlc/Airbnb-CIS-9440/blob/main/wire.png)
 
 ### Deployment
 
