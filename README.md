@@ -87,7 +87,7 @@ BI Application Wireframe design:
 
 Picture of final Dashboard:
 
-![Alt text](https://github.com/mehdi-mlc/Airbnb-CIS-9440/blob/main/wire.png)
+![Alt text](https://github.com/mehdi-mlc/Airbnb-CIS-9440/blob/main/dashboard.png)
 
 ### Deployment
 
