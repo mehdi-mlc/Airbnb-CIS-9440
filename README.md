@@ -60,7 +60,6 @@ This project's Dimensional Model consists of 1 Facts and 3 Dimensions
 
 This project's Kimball Bus Matrix:
 
-Use correct file path here to show picture of dimensional model...
 ![Alt text](https://github.com/mehdi-mlc/Airbnb-CIS-9440/blob/main/bus.png)
 
 ### Business Intelligence Design and Development
